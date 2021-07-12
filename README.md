@@ -8,7 +8,7 @@
     3. Flow: Home Page > View all Customers > Select and View oneCustomer > Transfer Money 
               > Select customer to transfer to >View all Customers.
     4. This website is only for transfer of money between multiple users.
-# Tech Stacks 👍 :-
+# Tech Stacks :-
   Front End:- 
         
         > HTML
